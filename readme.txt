@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks chnages
 Creating a new branch is quick and  simmpie
 no-ff
+bug1
